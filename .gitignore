@@ -1,3 +1,4 @@
 *.pt
 figs/
 result/
+__pycache__/
